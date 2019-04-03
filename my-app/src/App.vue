@@ -17,17 +17,32 @@
     todos: [
      {
       id: 1,
-      title: "Todo One",
+      title: "Vue Intro",
       completed: false
      },
      {
       id: 2,
-      title: "Todo Two",
-      completed: true
+      title: "Instance dan property",
+      completed: false
      },
      {
       id: 3,
-      title: "Todo Three",
+      title: "Data binding",
+      completed: false
+     },
+     {
+      id: 4,
+      title: "Computed properties",
+      completed: false
+     },
+     {
+      id: 5,
+      title: "Conditional directives",
+      completed: false
+     },
+     {
+      id: 6,
+      title: "Loop list",
       completed: false
      }
     ]
@@ -46,7 +61,6 @@
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
   margin-top: 60px;
  }
