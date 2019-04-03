@@ -12,7 +12,7 @@ Create a project:
 vue ui
 </code></pre></div>
 
-run local server http://localhost:8080/
+Serve on http://localhost:8080/
 <div class="language-bash extra-class"><pre class="language-bash"><code>cd my-app
 npm run serve
 </code></pre></div>
